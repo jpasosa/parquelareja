@@ -1,0 +1,97 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Feed/Reader
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Entry
+dir
+
+Feed
+dir
+
+FeedSet.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+f9163cd1b7bf7cd27e48ec74f3bd6c4a
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+EntryInterface.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+c3129c46ff328c2e0be8139590da58c3
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+FeedInterface.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+c8eb15523e846dc6825800f722d097be
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+EntryAbstract.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+dd73af95417c85f643fd57b41c6d215c
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Extension
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+f629d685c2e772001cf75932b015c920
+2010-08-03T03:41:13.652822Z
+4
+diego
+

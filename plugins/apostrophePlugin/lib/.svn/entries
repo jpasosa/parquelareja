@@ -1,0 +1,88 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/lib
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-08-17T17:02:42.188598Z
+54
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+test
+dir
+
+helper
+dir
+
+widget
+dir
+
+toolkit
+dir
+
+filter
+dir
+
+validator
+dir
+
+editor
+dir
+
+pear
+dir
+
+minify
+dir
+
+embedService
+dir
+
+vendor
+dir
+
+pager
+dir
+
+navigation
+dir
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+action
+dir
+
+sfFilter
+dir
+
+lessphp
+dir
+
+user
+dir
+

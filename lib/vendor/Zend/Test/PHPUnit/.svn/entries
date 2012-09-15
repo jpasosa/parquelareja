@@ -1,0 +1,58 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Test/PHPUnit
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Constraint
+dir
+
+Db
+dir
+
+ControllerTestCase.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+e07bc722196dbe9b2c7b6c9855e485d2
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+DatabaseTestCase.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+188b365f8d7486a3d90f87ea73e342a9
+2010-08-03T03:41:13.652822Z
+4
+diego
+

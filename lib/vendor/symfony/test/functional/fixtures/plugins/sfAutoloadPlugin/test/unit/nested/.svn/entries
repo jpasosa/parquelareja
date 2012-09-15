@@ -1,0 +1,40 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/test/unit/nested
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+NestedUnitTest.php
+file
+
+
+
+
+2010-08-03T04:22:00.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-08-03T03:41:13.652822Z
+4
+diego
+

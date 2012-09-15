@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/test/bootstrap
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T17:25:10.825466Z
+6
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+unit.php
+file
+
+
+
+
+2010-09-22T18:43:05.000000Z
+ef14875d3a428204d066f5a4cea1a659
+2010-08-03T17:25:10.825466Z
+6
+diego
+
+functional.php
+file
+
+
+
+
+2010-09-22T18:43:05.000000Z
+e9037674563b4c01ce5ce566237fdfbd
+2010-08-03T17:25:10.825466Z
+6
+diego
+

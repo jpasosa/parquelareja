@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel/logger
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+BasicLogger.php
+file
+
+
+
+
+2010-08-03T04:22:06.000000Z
+27ba2e05d4a39757dc58b1a97cbd9c7a
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+MojaviLogAdapter.php
+file
+
+
+
+
+2010-08-03T04:22:06.000000Z
+b1184c103e0c999c24296cef00ce6b3b
+2010-08-03T03:41:13.652822Z
+4
+diego
+

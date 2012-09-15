@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfTaskExtraPlugin/lib/task/test
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+sfTestPluginTask.class.php
+file
+
+
+
+
+2011-07-13T20:10:00.000000Z
+471c16f58b9c74de59a4f2701047b4c8
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+sfTaskExtraTestBaseTask.class.php
+file
+
+
+
+
+2011-07-13T20:10:00.000000Z
+3cedae67395cd4ddb252e43645822833
+2011-07-13T19:27:38.079076Z
+42
+diego
+

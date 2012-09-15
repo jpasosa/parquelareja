@@ -1,0 +1,55 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Test
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+DbStatement.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+71e4020adec3966599b343ccc7911fc7
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+PHPUnit
+dir
+
+DbAdapter.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+3707053bd56a10520ecdb0fbb030ba1a
+2010-08-03T03:41:13.652822Z
+4
+diego
+

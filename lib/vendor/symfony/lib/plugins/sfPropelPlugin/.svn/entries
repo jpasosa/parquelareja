@@ -1,0 +1,94 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfPropelPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+i18n
+dir
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+7fa0c72eaf9d9b17fb063901d70df21f
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+LICENSE.Propel
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+f89157a84f530d1f5f91a160da6447f7
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+config
+dir
+
+lib
+dir
+
+LICENSE.phing
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+5f819616f8a20265a694aa2613373562
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+LICENSE.Agavi
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+0f585ac8142aba251fe4a334fdb84e49
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+data
+dir
+
+web
+dir
+

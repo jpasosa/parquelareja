@@ -1,0 +1,64 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostropheExtraSlotsPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+config
+dir
+
+lib
+dir
+
+modules
+dir
+
+svn-commit.tmp
+file
+
+
+
+
+2011-07-13T20:09:46.000000Z
+3064a3028e786bed286ea5c5526d1a3c
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+web
+dir
+
+README
+file
+
+
+
+
+2011-07-13T20:09:46.000000Z
+396a18ad3c59541f14a03b9897d6c11b
+2011-07-13T19:27:38.079076Z
+42
+diego
+

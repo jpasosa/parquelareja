@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostropheFeedbackPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2011-07-13T20:09:45.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+config
+dir
+
+package.xml.tmpl
+file
+
+
+
+
+2011-07-13T20:09:45.000000Z
+6bdb82036e38ab7b1b18cc20c1e5169c
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+lib
+dir
+
+modules
+dir
+
+web
+dir
+
+README
+file
+
+
+
+
+2011-07-13T20:09:45.000000Z
+d7a8f0e78b58b528c55ac02021e78bef
+2011-07-13T19:27:38.079076Z
+42
+diego
+

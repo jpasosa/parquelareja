@@ -1,0 +1,100 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/modules
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+aMedia
+dir
+
+a
+dir
+
+aRawHTMLSlot
+dir
+
+aFileSlot
+dir
+
+aImageSlot
+dir
+
+aTagAdmin
+dir
+
+aCategoryAdmin
+dir
+
+aTextSlot
+dir
+
+aMediaBackend
+dir
+
+aUserAdmin
+dir
+
+aAdmin
+dir
+
+aRichTextSlot
+dir
+
+aPager
+dir
+
+aNavigation
+dir
+
+aPermissionAdmin
+dir
+
+aAudioSlot
+dir
+
+aSlideshowSlot
+dir
+
+aGroupAdmin
+dir
+
+aFeedSlot
+dir
+
+aVideoSlot
+dir
+
+aSmartSlideshowSlot
+dir
+
+aPDFSlot
+dir
+
+aSync
+dir
+
+aButtonSlot
+dir
+

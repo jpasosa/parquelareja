@@ -1,0 +1,70 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Ldap/Node/Schema
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Item.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+a7b542fce7ec90ae9dbf049368f8109e
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+AttributeType
+dir
+
+ActiveDirectory.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+a4baa8872d42239120802a5f66e46930
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+OpenLdap.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+fa4d54e8cb070e87c7410f01eb7ea2f6
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+ObjectClass
+dir
+

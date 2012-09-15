@@ -1,0 +1,70 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfWebBrowserPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2011-07-13T20:09:46.000000Z
+e3129364106e59e5c6b572234b914ec7
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+lib
+dir
+
+package.xml
+file
+
+
+
+
+2011-07-13T20:09:46.000000Z
+4a25a69eb6d10dac5a7a869a923d6623
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+README
+file
+
+
+
+
+2011-07-13T20:09:46.000000Z
+faad5445742c16b60092118c6be45a13
+2011-07-13T19:27:38.079076Z
+42
+diego
+

@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Indexer
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Dir.php
+file
+
+
+
+
+2010-08-03T04:22:04.000000Z
+dae275a34355781b0c67401eb3d09711
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:22:04.000000Z
+ee1e06db02275fc666594b75e93a2321
+2010-08-03T03:41:13.652822Z
+4
+diego
+

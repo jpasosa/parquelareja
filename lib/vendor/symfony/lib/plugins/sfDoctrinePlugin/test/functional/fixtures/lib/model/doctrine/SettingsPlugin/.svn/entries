@@ -1,0 +1,55 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+SettingTable.class.php
+file
+
+
+
+
+2010-08-03T04:22:03.000000Z
+b434614d29f2acc1b0ac56a17a4797a3
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Setting.class.php
+file
+
+
+
+
+2010-08-03T04:22:03.000000Z
+bbf119280d3139e5f59144a9e3233d48
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+base
+dir
+

@@ -1,0 +1,68 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/web/js/fckeditor/editor/plugins/placeholder
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+lang
+dir
+
+placeholder.gif
+file
+
+
+
+
+2011-07-13T20:09:28.000000Z
+090274dbcc2f5a50ea1086d948ca85ab
+2011-07-13T19:27:38.079076Z
+42
+diego
+has-props
+
+fck_placeholder.html
+file
+
+
+
+
+2011-07-13T20:09:28.000000Z
+0c0a7ec7d8c7889db613a14fd12c0862
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+fckplugin.js
+file
+
+
+
+
+2011-07-13T20:09:28.000000Z
+b1af0d3eeb17ee317017afc1141217e4
+2011-07-13T19:27:38.079076Z
+42
+diego
+

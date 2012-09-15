@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Config
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Writer.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+8a544654250823273dd95263960c2d86
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+5b033f4d99d7f32889021dcce5b89b5f
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Ini.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+852078036bde8732322021f5b67de9ff
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Xml.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+b8663844ebdd2587f3ac77d12befec03
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Writer
+dir
+

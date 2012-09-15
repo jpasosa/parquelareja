@@ -1,0 +1,521 @@
+001347671526001347667926<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+		  <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="title" content="Calendario de Uso" />
+	<title>Calendario de Uso</title>
+		  <link rel="stylesheet" type="text/css" media="screen" href="/uploads/asset-cache/83f9c02ebea1e57c41e15fc0fc922182.css" /><link rel="stylesheet" type="text/css" media="screen" data-asset-group="global" href="/uploads/asset-cache/da4c726a2b986fe8b1c2735e0d37e8ce.css" />
+	<script type="text/javascript" src="/uploads/asset-cache/d0cb69578f34d9b008b9aaa4d8cf6ac1.js"></script><script type="text/javascript" data-asset-group="global" src="/uploads/asset-cache/e3314fc449af5cf10f3eaa06c5f73178.js"></script>	<!--[if lt IE 7]>
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				apostrophe.IE6({'authenticated':false, 'message':"You are using IE6! That is just awful! Apostrophe does not support editing using Internet Explorer 6. Why don't you try upgrading? <a href=\"http:\/\/www.getfirefox.com\">Firefox<\/a> <a href=\"http:\/\/www.google.com\/chrome\">Chrome<\/a> \t<a href=\"http:\/\/www.apple.com\/safari\/download\/\">Safari<\/a> <a href=\"http:\/\/www.microsoft.com\/windows\/internet-explorer\/worldwide-sites.aspx\">IE8<\/a>"});
+			});
+		</script>
+	<![endif]-->	
+
+	
+	
+		
+	<link rel="shortcut icon" href="/favicon.ico" />
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="/apostrophePlugin/css/a-ie.css" />	
+	<![endif]-->
+	
+</head>
+
+<body class="calendario">
+
+	  
+ 
+
+
+
+
+
+
+
+
+	<div id="a-wrapper"  class="a-wrapper clearfix">
+    
+    <div id="header">
+      
+
+
+
+  <div id="a-area-6-logo"  class="a-area a-normal a-area-logo   singleton aButton clearfix">
+    
+    
+  
+
+
+    <div id="a-slots-6-logo" class="a-slots clearfix">
+
+
+	  	  
+ 
+	<!-- START SLOT -->
+	<div class="a-slot a-normal normal aButton clearfix" id="a-slot-6-logo-1">
+ 		
+		    			
+				
+      	<div class="a-slot-content clearfix" id="a-slot-content-6-logo-1">
+               
+
+
+
+
+
+
+
+  <ul id="a-button-6-logo-1" class="a-button">
+    <li class="a-button-image">
+    		    	      <a class="a-button-link" href="/"><img alt="header" width="960" height="137" src='/uploads/media_items/header-1.960.137.c.jpg' /></a>			    </li>
+          </ul>
+
+
+
+
+   	</div>
+	</div>
+
+
+  </div>  </div> 
+ 			<ul class="a-nav a-nav-main tabs nav-depth-0 clearfix" id="a-nav-main-0">
+
+      <li class="a-nav-item first" id="a-nav-item-main-9">
+
+              <a href="http://parquelareja.org/el-parque">El Parque</a>      
+      
+      
+    </li>
+      <li class="a-nav-item a-current-page second" id="a-nav-item-main-11">
+
+              <a href="http://parquelareja.org/calendario-de-uso">Calendario de Uso</a>      
+      
+      
+    </li>
+      <li class="a-nav-item" id="a-nav-item-main-54">
+
+              <a href="http://parquelareja.org/reserva">Reserva</a>      
+      
+      
+    </li>
+      <li class="a-nav-item" id="a-nav-item-main-20">
+
+              <a href="http://parquelareja.org/centro-de-estudios">Centro de Estudios</a>      
+      
+      
+    </li>
+      <li class="a-nav-item" id="a-nav-item-main-14">
+
+              <a href="http://parquelareja.org/otros-parques">Otros Parques</a>      
+      
+      
+    </li>
+      <li class="a-nav-item" id="a-nav-item-main-59">
+
+              <a href="http://parquelareja.org/actividades">Actividades</a>      
+      
+      
+    </li>
+      <li class="a-nav-item next-last" id="a-nav-item-main-64">
+
+              <a href="http://parquelareja.org/silo">Silo</a>      
+      
+      
+    </li>
+      <li class="a-nav-item last" id="a-nav-item-main-7">
+
+              <a href="http://parquelareja.org/contacto">Contacto</a>      
+      
+      
+    </li>
+    
+</ul>
+
+   		   				<ul id="a-breadcrumb-component" class="a-nav a-nav-breadcrumb a-breadcrumb-component breadcrumb clearfix">
+						<li class="a-nav-item"><a href="http://parquelareja.org/">Inicio</a><span class="a-breadcrumb-separator">|</span>			</li>
+				
+						<li class="a-nav-item a-current-page"><a href="http://parquelareja.org/calendario-de-uso">Calendario de Uso</a>			</li>
+				
+	</ul>   		    </div>
+ 		
+      		<div id="content" class="clearfix">
+		    
+<div class="left">
+  <h3>Calendario de Uso</h3>
+  <p>Haga click en un ámbito para ver su disponibilidad.</p>
+  <div id="calendar_filters">
+    <h5 data-type="all" class="all selected">Todos</h5>
+    <h5 data-type="cde" class="cde">Centro de Estudios</h5>
+    <h5 data-type="cdt" class="cdt">Centro de Trabajo</h5>
+    <h5 data-type="taller" class="taller">Taller</h5>
+  </div>
+  <p><b>Las reservas de taller aún no se muestran aquí</b> aunque si figuran en los detalles.</p>
+  <p>Haga click en una fecha del calendario para ver los detalles de reservas de ese día.</p>
+  <div id="calendar_details">
+    <div id="calendar_details_content" style="display:none;">
+    </div>
+  </div>
+</div>
+<div class="right">
+  <div id="calendar" class="all">
+    <div id="month_7" class="month_content"><h4>Julio / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><a href="#" id="cal_day_2012_7_1" class="day  cde_p cdt_t">1</a><a href="#" id="cal_day_2012_7_2" class="day  cde_l cdt_p">2</a><a href="#" id="cal_day_2012_7_3" class="day  cde_p cdt_p">3</a><a href="#" id="cal_day_2012_7_4" class="day  cde_p cdt_p">4</a><a href="#" id="cal_day_2012_7_5" class="day  cde_p cdt_p">5</a><a href="#" id="cal_day_2012_7_6" class="day  cde_l cdt_t comentario">6</a><a href="#" id="cal_day_2012_7_7" class="day  cde_p cdt_t comentario">7</a><a href="#" id="cal_day_2012_7_8" class="day  cde_p cdt_t comentario">8</a><a href="#" id="cal_day_2012_7_9" class="day  cde_t cdt_t comentario">9</a><a href="#" id="cal_day_2012_7_10" class="day  ">10</a><a href="#" id="cal_day_2012_7_11" class="day  ">11</a><a href="#" id="cal_day_2012_7_12" class="day  cde_l cdt_l">12</a><a href="#" id="cal_day_2012_7_13" class="day  cde_p cdt_p">13</a><a href="#" id="cal_day_2012_7_14" class="day  cde_p cdt_t">14</a><a href="#" id="cal_day_2012_7_15" class="day  cde_p cdt_t">15</a><a href="#" id="cal_day_2012_7_16" class="day  cde_p cdt_l">16</a><a href="#" id="cal_day_2012_7_17" class="day  cde_p cdt_l">17</a><a href="#" id="cal_day_2012_7_18" class="day  cde_p cdt_l">18</a><a href="#" id="cal_day_2012_7_19" class="day  ">19</a><a href="#" id="cal_day_2012_7_20" class="day  cde_p cdt_p">20</a><a href="#" id="cal_day_2012_7_21" class="day  cde_p cdt_t">21</a><a href="#" id="cal_day_2012_7_22" class="day  cde_l cdt_p">22</a><a href="#" id="cal_day_2012_7_23" class="day  ">23</a><a href="#" id="cal_day_2012_7_24" class="day  ">24</a><a href="#" id="cal_day_2012_7_25" class="day  ">25</a><a href="#" id="cal_day_2012_7_26" class="day  ">26</a><a href="#" id="cal_day_2012_7_27" class="day  cde_p cdt_p">27</a><a href="#" id="cal_day_2012_7_28" class="day  cde_t cdt_p">28</a><a href="#" id="cal_day_2012_7_29" class="day  cde_p cdt_p">29</a><a href="#" id="cal_day_2012_7_30" class="day  cde_p cdt_l">30</a><a href="#" id="cal_day_2012_7_31" class="day  cde_p cdt_l">31</a></div><script type="text/javascript" language="javascript">$('#cal_day_2012_7_1').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>01/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs.. (Hector Mendez, Maxi Romero)</p><p>CdT: 13 Alojados. Egreso 18 hs. (Responsable Mariel Valentin)</p><p>CdE: 1 Alojados. Egreso 18 hs. (Responsable Mariel Valentin)</p><p><span style="background-color: rgba(255, 255, 255, 0.918); color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE: 2 Alojados. Egreso 18 hs. (Responsable Florencia Uruzuna)</span></p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_2').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>02/07/12:</h4><p>CdT: 2 Alojado. Reemplazo de casero. (Maxi Romero, Alejandro Ferrer)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_3').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>03/07/12:</h4><p>&nbsp; CdT: 1 Alojado. Reemplazo de casero. (Carlos de Luca)</p><p>CdE: 3 Alojados. Ingreso 18 hs. (Responsable Gabriel Yastrubni)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_4').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>04/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Renato Bruno, Nestor Tato)</p><p>CdE: 3 Alojados. (Responsable Gabriel Yastrubni)</p><p>CdE: 4 Alojados. Ingreso 18 hs. (Responsable Alejandro Roger)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_5').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>05/07/12:</h4><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. (Renato Bruno, Nestor Tato)</p><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Gabriel Yastrubni)</p><p>CdE: 4 Alojados. Egreso 18 hs. (Responsable Alejandro Roger)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_6').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>06/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Armengol Espiritu, David Parentti)</p><p>CdT: 3 Alojados. Ingreso 18 hs. (Responsable Diego Rodriguez)</p><p>Multiuso (aviso de uso): Reuni&oacute;n Nacional del PH. (Responsable Diego Rodriguez)</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_7').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>07/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Armengol Espiritu, David Parentti)</p><p>CdT: 13 Alojados. (Responsable Diego Rodriguez)</p><p>Multiuso (aviso de uso): Reuni&oacute;n Nacional del PH. (Responsable Diego Rodriguez)</p><p>CdE: 9 Alojados. Ingreso 18 hs. (Responsable Diego Rodriguez)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_8').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>08/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Armengol Espiritu, David Parentti)</p><p>CdT: 13 Alojados. (Responsable Diego Rodriguez)</p><p>Multiuso (aviso de uso): Reuni&oacute;n Nacional del PH. (Responsable Diego Rodriguez)</p><p>CdE 9 alojados Egreso 18 hs (Responsable Diego Rodriguez)</p><p>CdE: 2 Alojados. (Responsable Diego Rodriguez)</p><p>Taller: Trabajos de remodelacion horno de vidrio desde las 12 horas.(Responsable: Ariel Niro).</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_9').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>09/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Armengol Espiritu, David Parentti)</p><p>CdT:13 Alojados. Egreso 18 hs. (Responsable Diego Rodriguez)</p><p>CdE 2&nbsp; Alojados Egreso 18 hs (Responsable Diego Rodriguez)</p><p>Multiuso (aviso de uso): Reuni&oacute;n Nacional del PH. (Responsable Diego Rodriguez)</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_12').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>12/07/12:</h4>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_13').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>13/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Adriana Ocampo, Candy Montenegro)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Carla Pascuale)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Virginia Nasif)</p><p>CdE: 4 Alojados. Ingreso 18 hs. (Responsable Carina Fichera)</p><p>Taller: 4 Personas. Ingreso 18 hs. Esmaltado de piezas de cer&aacute;mica</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Ana L&iacute;a Dellacasa)</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_14').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>14/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Adriana Ocampo, Candy Montenegro)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Carla Pascuale)</p><p>CdT y Taller: Ingreso 18 hs. 13 Personas (Taller del Fuego. Resp. Corinne Figueroa)</p><p>CdE: 1 Alojado. (Responsable Virginia Nasif)</p><p>CdE y Taller: Ingreso 18 hs. 3 Personas (Taller del Fuego. Resp. Corinne Figueroa)</p><p>CdE: 1 Alojado.&nbsp; (Responsable Ana L&iacute;a Dellacasa)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Mar&iacute;a Eugenia Pirolo)</p><p>CdE: 4 Alojados.&nbsp; (Responsable Carina Fichera)</p><p>Taller: 4 Personas. Egreso 18 hs. Esmaltado de piezas de cer&aacute;mica  (Responsable Carina Fichera)</p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE c/Taller: 1 Alojado. Ingreso 18 hs. (Responsable Eduardo Roman)</span></p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">Taller 13 personas Taller del vidrio. Ingreso 12 pm Egreso 12 am</span> (Responsable Ariel Niro)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_15').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>15/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Adriana Ocampo, Candy Montenegro)</p><p>CdT y Taller: Egreso 18 hs. 13 Personas (Taller del Fuego. Resp. Corinne Figueroa)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Virginia Nasif)</p><p>CdE y Taller: Egreso 18 hs. 3 Personas (Taller del Fuego. Resp. Corinne Figueroa)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Ana L&iacute;a Dellacasa)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Mar&iacute;a Eugenia Pirolo)</p><p>CdE: 4 Alojados. Egreso 18 hs. (Responsable Carina Fichera)</p><p>Multiuso - aviso de uso. 13h a 20h. Reunion de miembros del PH.. Aprox 20 personas. (Responsable&nbsp;<span style="background-color: rgba(255, 255, 255, 0.917969); color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Micaela Herbon Browne)</span></p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE c/Taller: 1 Alojado. Egreso 18 hs. (Responsable Eduardo Roman)</span></p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE: 3 Alojados. Ingreso 18 hs. (Responsable Marina Olivella)</span></p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE: 1 Alojado. Ingreso 18 hs. (Responsable Marina Repeto)</span></p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_16').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>16/07/12:</h4><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Marina Olivella)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Mariana Jorge)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Alejandro Drandich)</p><p><span style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px;">CdE: 1 Alojado. Egreso 18 hs. (Responsable Marina Repeto)</span></p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_17').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>17/07/12:</h4><p>CdE: 2 Alojados. (Responsable Mariana Jorge)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_18').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>18/07/12:</h4><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Mariana Jorge)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_20').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>20/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Coco Figueroa, Martin Baez)</p><p>CdE: 15 Alojados. Ingreso 18 hs. (Responsable Alejandro Roger)</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_21').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>21/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Coco Figueroa, Martin Baez)</p><p>CdT: 5 Alojados. Ingreso 18 hs. (Resp. Rocio Balboa)</p><p>CdT y Taller: 2 Alojados. Ingreso 18 hs. (Resp. Monica Flores)<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; "><br /></span></p><p><span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">CdT: 5 Alojados. Ingreso 18 hs. (Resp. Patricia Nagy)</span></p><p>CdE: 15 Alojados. Egreso 18 hs. (Responsable Alejandro Roger)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Resp. Patricia Nagy)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_22').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>22/07/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Coco Figueroa, Martin Baez)</p><p>CdT: 5 Alojados. Egreso 18 hs. (Resp. Rocio Balboa)</p><p>CdT y Taller: 2 Alojados. Egreso 18 hs. (Resp. Monica Flores)</p><p>CdT: 5 Alojados. Egreso 18 hs. (Resp. Patricia Nagy)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Resp. Patricia Nagy)</p><p>Multiuso (aviso de uso). Retiro de Trabajo personal, 10h a 18h, aprox. 15 pers. Resp. Patricia Nagy</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_27').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>27/07/12:</h4><p>CdT: 1 Alojado. Reemplazo de casero. Ingreso 18 hs. (Cecilia Frontini)</p><p>CdE: 3 Alojados. Ingreso 18 hs. (Responsable Melanie Clutterbuck)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_28').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>28/07/12:</h4><p>CdT: 1 Alojado. Reemplazo de casero. (Cecilia Frontini)</p><p>CdT: 4 Alojados. Ingreso 18 hs. (Resp. Mariana Tagliaferro)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Alejandra Pais)</p><p>CdE: 16 Alojados. Ingreso 18 hs. (Responsable Mariana Pereyra)</p><p>Mutiuso (aviso de uso). Presentaci&oacute;n e intercambio sobre la misi&oacute;n del Mensaje de Silo en Guatemala. 16h a 18h. aprox. 40 pers. (Resp. Daniela Caldas)</p><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Melanie Clutterbuck)</p><p>Taller: trabajo con vidrio y fabricacion de crisoles. Participantes 15. Ingreso 13 hs Egreso 0 hs. (Responsable Ariel Niro)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_29').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>29/07/12:</h4><p>CdT: 1 Alojado. Reemplazo de casero. Egreso 20 hs. (Cecilia Frontini)</p><p>CdT: 4 Alojados. Egreso 18 hs. (Resp. Mariana Tagliaferro)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Alejandra Pais)</p><p>CdE: 16 Alojados. Egreso 18 hs. (Responsable Mariana Pereyra)</p><p>CdE: 4 Alojados. Ingreso 18 hs. (Responsable Mariana Tagliaferro)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_30').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>30/07/12:</h4><p>CdE: 4 Alojados. Egreso 18 hs. (Responsable Mariana Tagliaferro)</p><p>CdE: 3 Alojados. Ingreso 18 hs. (Responsable Mariana Tagliaferro)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_7_31').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>31/07/12:</h4><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Mariana Tagliaferro)</p>');
+                  $('#calendar_details_content').show();
+              });</script><div id="month_8" class="month_content"><h4>Agosto / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><div class="prefix"></div><div class="prefix"></div><a href="#" id="cal_day_2012_8_1" class="day  cde_p cdt_p">1</a><a href="#" id="cal_day_2012_8_2" class="day  cde_p cdt_p">2</a><a href="#" id="cal_day_2012_8_3" class="day  cde_l cdt_p">3</a><a href="#" id="cal_day_2012_8_4" class="day  cde_p cdt_p">4</a><a href="#" id="cal_day_2012_8_5" class="day  cde_l cdt_p">5</a><a href="#" id="cal_day_2012_8_6" class="day  ">6</a><a href="#" id="cal_day_2012_8_7" class="day  cde_p cdt_l">7</a><a href="#" id="cal_day_2012_8_8" class="day  cde_p cdt_l">8</a><a href="#" id="cal_day_2012_8_9" class="day  cde_p cdt_l">9</a><a href="#" id="cal_day_2012_8_10" class="day  cde_t cdt_t">10</a><a href="#" id="cal_day_2012_8_11" class="day  cde_p cdt_t">11</a><a href="#" id="cal_day_2012_8_12" class="day  cde_p cdt_p">12</a><a href="#" id="cal_day_2012_8_13" class="day  cde_p cdt_p">13</a><a href="#" id="cal_day_2012_8_14" class="day  ">14</a><a href="#" id="cal_day_2012_8_15" class="day  ">15</a><a href="#" id="cal_day_2012_8_16" class="day  ">16</a><a href="#" id="cal_day_2012_8_17" class="day  cde_l cdt_p">17</a><a href="#" id="cal_day_2012_8_18" class="day  cde_p cdt_t">18</a><a href="#" id="cal_day_2012_8_19" class="day  cde_p cdt_t">19</a><a href="#" id="cal_day_2012_8_20" class="day  cde_p cdt_t">20</a><a href="#" id="cal_day_2012_8_21" class="day  ">21</a><a href="#" id="cal_day_2012_8_22" class="day  ">22</a><a href="#" id="cal_day_2012_8_23" class="day  ">23</a><a href="#" id="cal_day_2012_8_24" class="day  cde_p cdt_t">24</a><a href="#" id="cal_day_2012_8_25" class="day  cde_p cdt_p">25</a><a href="#" id="cal_day_2012_8_26" class="day  cde_p cdt_p">26</a><a href="#" id="cal_day_2012_8_27" class="day  cde_p cdt_l">27</a><a href="#" id="cal_day_2012_8_28" class="day  cde_p cdt_l">28</a><a href="#" id="cal_day_2012_8_29" class="day  ">29</a><a href="#" id="cal_day_2012_8_30" class="day  ">30</a><a href="#" id="cal_day_2012_8_31" class="day  cde_p cdt_p">31</a></div><script type="text/javascript" language="javascript">$('#cal_day_2012_8_1').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>01/08/12:</h4><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Corinne Figueroa)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Corinne Figueroa)</p><p>CdT: 4 Alojados. Ingreso 18 hs. (Resp. Alejandro Roger)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_2').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>02/08/12:</h4><p>CdE: 1 Alojado. (Responsable Corinne Figueroa)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Corinne Figueroa)</p><p>Taller: Uso del torno (Responsable Corinne figueroa)</p><p>CdT: 4 Alojados. Egreso 18 hs. (Resp. Alejandro Roger)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_3').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>03/08/12:</h4><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Patricia Losada, Alejandro Chavez)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Corinne Figueroa)</p><p>Taller: Uso del torno (Responsable Corinne figueroa)</p><p>CdT: 10 Alojados. Ingreso 18 hs. (Resp. Daniela Yastrubni)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_4').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>04/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Patricia Losada, Alejandro Chavez)</p><p>CdT y Taller: 5 Alojados. Ingreso 18 hs. (Resp. Diego Recuna)</p><p>CdT: 8 Alojados. (Resp. Daniela Yastrubni)</p><p>CdE: 2 Alojados. (Resp. Daniela Yastrubni)</p><p>CdE: 11 Alojados. Ingreso 18 hs. (Responsable Liliana Ambrosio)</p><p>Multiuso (aviso de uso) - Reuni&oacute;n del ECN del PH, de 10h a 18h, aprox. 11 personas, (Responsable Liliana Ambrosio)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Carmen Souto)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_5').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>05/08/12:</h4><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Patricia Losada, Alejandro Chavez)</p><p>CdT y Taller: 5 Alojados. Egreso 18 hs. (Resp. Diego Recuna)</p><p>CdT: 8 Alojados.&nbsp;Egreso 18 hs. (Resp. Daniela Yastrubni)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Resp. Daniela Yastrubni)</p><p>CdE: 11 Alojados. Egreso 18 hs. (Responsable Liliana Ambrosio)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Carmen Souto)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_7').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>07/08/12:</h4><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Martin Slucki)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_8').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>08/08/12:</h4><p>CdE: 2 Alojados.&nbsp; (1 Ingreso 18 hs). (Responsable Martin Slucki)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_9').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>09/08/12:</h4><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Martin Slucki)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_10').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>10/08/12:</h4><p>CdE: 16 Alojados. Ingreso 18 hs. (Responsable Alejandro Roger)</p><p>CdT: 13 Alojados. Ingreso 18 hs. (Responsable Gustavo Schierff)</p><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Fernando Contreras y&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Jessica Maggio</span>)</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_11').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>11/08/12:</h4><p>CdE: 16 Alojados. Egreso 18 hs. (Responsable Alejandro Roger)</p><p>CdT: 13 Alojados. Egreso 18 hs. (Responsable Gustavo Schierff)</p><p>Multiuso (aviso de uso), Responsable Edgardo Perez, 120 personas.</p><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. (Fernando Contreras y&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Jessica Maggio</span>)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Barbara Sauer)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_12').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>12/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs.. (Fernando Contreras y&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Jessica Maggio</span>)</p><p>CdE: 1 Alojado.&nbsp; (Responsable Barbara Sauer)</p><p>CdE: 3 Alojados. Ingreso 18 hs. (Responsable Mariana Tagliaferro)</p><p>Taller: trabajo con vidrio y fabricacion de crisoles. Participantes 13. Ingreso 12 hs Egreso 0 hs. (Responsable Ariel Niro)</p><p>CdE: 3 Alojados. Ingreso 18 hs. (Responsable Mariana)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_13').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>13/08/12:</h4><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Barbara Sauer)</p><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Mariana Tagliaferro)</p><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Mariana Jorge)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_17').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>17/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Puchi Pellegrini, Norma Coronel)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_18').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>18/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Puchi Pellegrini, Norma Coronel)</p><p>CdT: 13 Alojados. Ingreso 18 hs. (Resp. Ayelen Fulgi)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Edgardo Pipo Herrera)</p><p>Multiuso (aviso de uso). Reunion del ECN (PH) - de 11h a 18h. Approx. 10 personas.&nbsp;Responsable Marisa Repetto</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Patricia Nagy)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_19').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>19/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Puchi Pellegrini, Norma Coronel)</p><p>CdT: 13 Alojados.&nbsp; (Resp. Ayelen Fulgi)</p><p>CdE: 2 Alojados. (Responsable Edgardo Pipo Herrera)</p><p>CdE: 8 Alojados. Ingreso 18 hs. (Responsable Eva Guzman)</p><p>CdE: 1 Alojado. (Responsable Patricia Nagy)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_20').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>20/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Puchi Pellegrini, Norma Coronel)</p><p>CdT: 13 Alojados. Egreso 18 hs. (Resp. Ayelen Fulgi)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Edgardo Pipo Herrera)</p><p>CdE: 8 Alojados. Egreso 18 hs. (Responsable Eva Guzman)</p><p>Multiuso (aviso de uso).&nbsp;Reunion del PH.&nbsp;de 12h a 20h. Approx. 10 pers. (Responsable Santiago Repetto).</p><p>Multiuso (aviso de uso) Reunion de Poyecto de India&nbsp; 15 hs. (Responsable Patricia Sismondo)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Patricia Nagy)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_24').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>24/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Pachy Tagliafico, Adriana Ocampo)</p><p>CdT: 13 Alojados. Ingreso 18 hs. Equipo ayuda &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot;(Resp. Pachy Tagliafico)</p><p>CdE c/Taller: 3 Alojados. Ingreso 18 hs. (Responsable Carina Fichera)</p><p>&nbsp;CdE: 5 Alojados. Ingreso 18 hs. Equipo ayuda &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot;(Resp. Carla Pascuale)</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_25').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>25/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Pachy Tagiafico, Adriana Ocampo)</p><p>CdT: 13 Alojados. Egreso 18 hs. Equipo ayuda &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot;(Resp. Pachy Tagliafico)</p><p>CdT: 3 Alojados. Ingreso 18 hs. (Resp. Adriana Ocampo)</p><p>CdT: 1 Alojado. Ingreso 18 hs. (Resp. Gabriel Drab)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Daniel Tagliafico)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Corinne Figueroa)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Maria Celina Fernandez)</p><p>CdT: 10 a 23 hs. Uso del salon para &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot; (Resp. Daniel Tagliafico, 100 personas aprox.)</p><p>Multiuso (aviso de uso) &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot; 10 a 23 hs. (Resp. Daniel Tagliafico, 50 personas aprox.)</p><p>CdE: 3 Alojados. (Responsable Carina Fichera)</p><p>CdE: 5 Alojados. Egreso 18 hs. Equipo ayuda &quot;Celebraci&oacute;n de los 10 a&ntilde;os de El Mensaje de Silo&quot;(Resp. Carla Pascuale)</p><p>Taller: trabajo con vidrio y fabricacion de crisoles. Participantes 15. Ingreso 12 hs Egreso 0 hs. (Responsable Ariel Niro)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Emiliano Granatelli)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Virginia Luna)</p><p>CdE: 1 Alojado. Ingreso 18hs. (Responsable Fernando Contreras)</p><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Mariana Jorge)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_26').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>26/08/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Pachy Tagliafico, Adriana Ocampo)</p><p>CdT: 3 Alojados. Egreso 18 hs. (Resp. Adriana Ocampo)</p><p>CdT: 1 Alojado. Egreso 18 hs. (Resp. Gabriel Drab)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Daniel Tagliafico)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Corinne Figueroa)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Maria Celina Fernandez)</p><p>CdE: 3 Alojados. Egreso 18 hs. (Responsable Carina Fichera)</p><p>Multiuso (aviso de uso).&nbsp;&nbsp;C<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">umplea&ntilde;os de Ornella,&nbsp;</span>de 12h a 19h.<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">&nbsp;</span>Approx. 50 personas. Responsable Amelia&nbsp;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Caresana</span></p><p>CdE: 1 Alojado. (Responsable Emiliano Granatelli)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Virginia Luna)</p><p>CdE: 1 Alojado. Egreso 18hs. (Responsable Fernando Contreras)</p><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Mariana Jorge)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_27').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>27/08/12:</h4><p>CdE:&nbsp; 1 Alojado. Ingreso 18 hs. (Responsable Mariana Pereyra)</p><p>CdE: 1 Alojado. (Responsable Emiliano Granatelli)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_28').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>28/08/12:</h4><p>CdE:&nbsp; 1 Alojado. Egreso 18 hs. (Responsable Mariana Pereyra)</p><p>CdE:&nbsp; 1 Alojado. Egreso 18 hs. (Responsable Emiliano Granatelli)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_8_31').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>31/08/12:</h4><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. Ingreso 18 hs. (Cristina Suarez, Nestor Tato)</p><p>CdT 13 Alojados Ingreso (Responsable Gustavo Schierff)</p><p>CdE: 16 Alojados. Ingreso 18 hs. (Responsable Alejandro Roger)</p>');
+                  $('#calendar_details_content').show();
+              });</script><div id="month_9" class="month_content"><h4>Septiembre / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><a href="#" id="cal_day_2012_9_1" class="day  cde_p cdt_p">1</a><a href="#" id="cal_day_2012_9_2" class="day  cde_p cdt_p">2</a><a href="#" id="cal_day_2012_9_3" class="day  cde_p cdt_l">3</a><a href="#" id="cal_day_2012_9_4" class="day  cde_l cdt_p">4</a><a href="#" id="cal_day_2012_9_5" class="day  cde_l cdt_l">5</a><a href="#" id="cal_day_2012_9_6" class="day  ">6</a><a href="#" id="cal_day_2012_9_7" class="day  cde_p cdt_p">7</a><a href="#" id="cal_day_2012_9_8" class="day  cde_t cdt_t">8</a><a href="#" id="cal_day_2012_9_9" class="day  cde_t cdt_t">9</a><a href="#" id="cal_day_2012_9_10" class="day  cde_p cdt_l">10</a><a href="#" id="cal_day_2012_9_11" class="day  ">11</a><a href="#" id="cal_day_2012_9_12" class="day  ">12</a><a href="#" id="cal_day_2012_9_13" class="day  ">13</a><a href="#" id="cal_day_2012_9_14" class="day  cde_p cdt_p">14</a><a href="#" id="cal_day_2012_9_15" class="day  cde_p cdt_l">15</a><a href="#" id="cal_day_2012_9_16" class="day  cde_p cdt_p">16</a><a href="#" id="cal_day_2012_9_17" class="day  ">17</a><a href="#" id="cal_day_2012_9_18" class="day  ">18</a><a href="#" id="cal_day_2012_9_19" class="day  ">19</a><a href="#" id="cal_day_2012_9_20" class="day  ">20</a><a href="#" id="cal_day_2012_9_21" class="day  cde_l cdt_t">21</a><a href="#" id="cal_day_2012_9_22" class="day  cde_l cdt_t">22</a><a href="#" id="cal_day_2012_9_23" class="day  cde_l cdt_p">23</a><a href="#" id="cal_day_2012_9_24" class="day  cde_p cdt_l">24</a><a href="#" id="cal_day_2012_9_25" class="day  cde_p cdt_l">25</a><a href="#" id="cal_day_2012_9_26" class="day  ">26</a><a href="#" id="cal_day_2012_9_27" class="day  ">27</a><a href="#" id="cal_day_2012_9_28" class="day  ">28</a><a href="#" id="cal_day_2012_9_29" class="day  cde_l cdt_p">29</a><a href="#" id="cal_day_2012_9_30" class="day  cde_l cdt_p">30</a></div><script type="text/javascript" language="javascript">$('#cal_day_2012_9_1').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>01/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Cristina Suarez, Nestor Tato)</p><p>CdT 12 Aloados&nbsp; Egreso (Responsable Gustavo Schierff)</p><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Ioga Lidio Forster)</p><p>CdE: 16 Alojados. Egreso 18 hs. (Responsable Alejandro Roger)</p><p>Multiuso (aviso de uso), Responsable Edgardo Perez, 120 personas.</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Javier Hernandez)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_2').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>02/09/12:</h4><p>&nbsp;CdT: 2 Alojados. Reemplazo de casero. Egreso 20 hs. (Cristina Suarez, Nestor Tato)</p><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Ioga Lidio Forster)</p><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Javier Hernandez)</p><p>CdE: 1 Alojado. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_3').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>03/09/12:</h4><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_4').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>04/09/12:</h4><p>CdT: 2 Alojados. Ingreso 18 hs. (Resp. Juan Manuel Acevedo)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_5').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>05/09/12:</h4><p>CdT: 2 Alojados. Egreso 18 hs. (Resp. Juan Manuel Acevedo)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_7').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>07/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Andres Pellegrini, Norma Coronel)</p><p>CdE: 7 Alojados. Ingreso 18 hs. (Responsable N&eacute;stor Avella)</p><p>CdT y Uso de Taller: 1 Alojado. Ingreso 18 hs. (Resp. Virginia Nasif)</p><p>CdT: 1 Alojado. Ingreso 18 hs. (Resp. Monica Kernc, funcion limpieza)</p><p>&nbsp;</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_8').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>08/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Andres Pellegrini, Norma Coronel)</p><p>CdE: 7 Alojados. (Responsable N&eacute;stor Avella)</p><p>CdT: 1 Alojado. Egreso 18 hs. (Resp. Monica Kernc, funcion limpieza)</p><p>CdT y Uso de Taller: 13 Alojados. Ingreso 18 hs. (Resp. Silvina Miro)</p><p>CdE y Uso de Taller: 9 Alojados. Ingreso 18 hs. (Resp. Silvina Miro)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_9').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>09/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Andres Pellegrini, Norma Coronel)</p><p>CdE: 7 Alojados. Egreso 18 hs. (Responsable N&eacute;stor Avella)</p><p>CdT y Uso de Taller: 13 Alojados. Egreso 18 hs. (Resp. Silvina Miro)</p><p>CdE y Uso de Taller: 9 Alojados. Egreso 18 hs. (Resp. Silvina Miro)</p><p>Multiuso (aviso de uso) Intercambio nivelacion 2012, de 12h a 19h. 9 perso. (Responsable Virginia Luna)</p><p>CdE: 1 Alojado. Ingreso 18 hs. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_10').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>10/09/12:</h4><p>CdE: 1 Alojado. Egreso 18 hs. (Responsable Alejandro Drandich)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_14').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>14/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Norma Melo, Veronica Torres)</p><p>CdT: 4 Alojados. Ingreso 18 hs. Funci&oacute;n limpieza. (Resp. Monica Kernc)</p><p>CdE c/Taller: 6 Alojados. Ingreso 18hs. (Responsable Daniela Yastrubni)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_15').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>15/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Norma Melo, Veronica Torres)</p><p>CdT: 6 Alojados. Funci&oacute;n limpieza. (Resp. Monica Kernc)</p><p>CdT: 2 Alojados. Funci&oacute;n Log&iacute;stica. (Resp. Daniela Caldas)</p><p>CdE c/Taller: 6 Alojados. (Responsable Daniela Yastrubni)</p><p>Multiuso (aviso de uso): Mensaje de Silo.&nbsp;<span style="font-family: arial, sans-serif; color: rgb(34,34,34); font-size: 13px">Seminario sobre El Cambio Profundo y Esencial. de 10h a 18h. 25 pers. responsable Pachy</span></p><p><span style="font-family: arial, sans-serif; color: rgb(34,34,34); font-size: 13px">CdE: 1 Alojado. Ingreso 18 hs. (Responsable Fabiana Martinez)</span></p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_16').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>16/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Norma Melo, Veronica Torres)</p><p>CdT: 6 Alojados. Egreso 18 hs. Funci&oacute;n limpieza. (Resp. Monica Kernc)</p><p>CdT: 2 Alojados. Egreso 18 hs. Funci&oacute;n Log&iacute;stica. (Resp. Daniela Caldas)</p><p>CdT: Uso del salon. Proyecciones videos de Silo. 12 a 20 hs. (aprox. 100 personas)</p><p>CdE c/Taller: 7 Alojados. Egreso 18hs. (Responsable Daniela Yastrubni)</p><p><span style="font-family: arial, sans-serif; color: rgb(34,34,34); font-size: 13px">CdE: 1 Alojado. Egreso 18 hs. (Responsable Fabiana Martinez)</span></p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_21').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>21/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Adriana Ocampo, Rocio Balboa)&nbsp;</p><p>CdT: 13 Alojados. Ingreso 18 hs. 10 personas Equipo Ayudas y 3 personas Log&iacute;stica/Limpieza para Estacional Primavera</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_22').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>22/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Adriana Ocampo, Rocio Balboa)&nbsp;</p><p>CdT: 13 Alojados. Egreso 18 hs. 10 personas Equipo Ayudas y 3 personas Log&iacute;stica/Limpieza para Estacional Primavera</p><p>Multiuso (aviso de uso): C.E.H - &quot;<span style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; ">Taller sobre Experiencias Guiadas&quot;. de 14h a 16h. 8 pers. (Responsable Julio Aquino)</span></p><p>Multiuso (aviso de uso) Charla: La Comunidad para el desarrollo humano. Charla &quot;Apuntes de la no-violencia: Si verdaderamente odias a tu enemigo, deber&aacute;s reconciliarte con &eacute;l&quot; de 16h a 18h.&nbsp;Responsable Fernando A. Garcia</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_23').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>23/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Adriana Ocampo, Rocio Balboa)&nbsp;</p><p>CdT: 5 Alojados. Ingreso 18 hs. (Resp. Adriana Vil)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_24').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>24/09/12:</h4><p>CdE: 2 Alojados. Ingreso 18 hs. (Responsable Fernanda Truffini)</p><p>CdT: 5 Alojados. Egreso 18 hs. (Resp. Adriana Vil)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_25').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>25/09/12:</h4><p>CdE: 2 Alojados. Egreso 18 hs. (Responsable Fernanda Truffini)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_29').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>29/09/12:</h4><p>CdT: 2 Alojados. Reemplazo de casero. (Hector Mendez, Carlos Deluca)&nbsp;</p><p>Multiuso - aviso de uso. &quot;transmisi&oacute;n&nbsp;  inauguraci&oacute;n Parques Odena-Barcelona&quot;. via streaming de 11h a 18h.&nbsp;Aprox.&nbsp;35 personas. (Resp. Susana Chialin)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_9_30').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>30/09/12:</h4><p>&nbsp; CdT: 2 Alojados. Reemplazo de casero. (Hector Mendez, Viviana Araujo)&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });</script><div id="month_10" class="month_content"><h4>Octubre / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><a href="#" id="cal_day_2012_10_1" class="day  ">1</a><a href="#" id="cal_day_2012_10_2" class="day  ">2</a><a href="#" id="cal_day_2012_10_3" class="day  ">3</a><a href="#" id="cal_day_2012_10_4" class="day  ">4</a><a href="#" id="cal_day_2012_10_5" class="day  cde_t cdt_l">5</a><a href="#" id="cal_day_2012_10_6" class="day  cde_t cdt_l">6</a><a href="#" id="cal_day_2012_10_7" class="day  ">7</a><a href="#" id="cal_day_2012_10_8" class="day  ">8</a><a href="#" id="cal_day_2012_10_9" class="day  ">9</a><a href="#" id="cal_day_2012_10_10" class="day  ">10</a><a href="#" id="cal_day_2012_10_11" class="day  ">11</a><a href="#" id="cal_day_2012_10_12" class="day  ">12</a><a href="#" id="cal_day_2012_10_13" class="day  ">13</a><a href="#" id="cal_day_2012_10_14" class="day  ">14</a><a href="#" id="cal_day_2012_10_15" class="day  ">15</a><a href="#" id="cal_day_2012_10_16" class="day  ">16</a><a href="#" id="cal_day_2012_10_17" class="day  ">17</a><a href="#" id="cal_day_2012_10_18" class="day  ">18</a><a href="#" id="cal_day_2012_10_19" class="day  ">19</a><a href="#" id="cal_day_2012_10_20" class="day  cde_p cdt_t">20</a><a href="#" id="cal_day_2012_10_21" class="day  cde_p cdt_t">21</a><a href="#" id="cal_day_2012_10_22" class="day  ">22</a><a href="#" id="cal_day_2012_10_23" class="day  ">23</a><a href="#" id="cal_day_2012_10_24" class="day  ">24</a><a href="#" id="cal_day_2012_10_25" class="day  ">25</a><a href="#" id="cal_day_2012_10_26" class="day  ">26</a><a href="#" id="cal_day_2012_10_27" class="day  cde_l cdt_l">27</a><a href="#" id="cal_day_2012_10_28" class="day  cde_l cdt_l">28</a><a href="#" id="cal_day_2012_10_29" class="day  ">29</a><a href="#" id="cal_day_2012_10_30" class="day  ">30</a><a href="#" id="cal_day_2012_10_31" class="day  ">31</a></div><script type="text/javascript" language="javascript">$('#cal_day_2012_10_5').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>05/10/12:</h4><p>CdE: 16 Alojados. Ingreso 18 hs. (Responsable Alejandro Roger)</p><p>CdT: 13 Alojados. Ingreso 18 hs. (Resp. Gustavo Schierff)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_10_6').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>06/10/12:</h4><p>CdE: 16 Alojados. Egreso 18 hs. (Responsable Alejandro Roger)</p><p>CdT: 13 Alojados. Egreso 18 hs. (Resp. Gustavo Schierff)</p><p>Multiuso (aviso de uso), Responsable Edgardo Perez, 120 personas.</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_10_20').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>20/10/12:</h4><p>&nbsp;CdT c/uso Taller: 13 Alojados. Ingreso 18 hs. (Resp. Soledad Nasif)</p><p>CdE: 10 Alojados. Ingreso 18 hs. (Responsable Soledad Nasif)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_10_21').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>21/10/12:</h4><p>CdT c/uso Taller: 13 Alojados. Egreso 18 hs. (Resp. Soledad Nasif)</p><p>CdE: 10 Alojados. Egreso 18 hs. (Responsable Soledad Nasif)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_10_27').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>27/10/12:</h4><p>&nbsp;</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_10_28').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>28/10/12:</h4><p>&nbsp;</p><p>&nbsp;</p>');
+                  $('#calendar_details_content').show();
+              });</script><div id="month_11" class="month_content"><h4>Noviembre / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><a href="#" id="cal_day_2012_11_1" class="day  ">1</a><a href="#" id="cal_day_2012_11_2" class="day  cde_t cdt_t">2</a><a href="#" id="cal_day_2012_11_3" class="day  cde_t cdt_p">3</a><a href="#" id="cal_day_2012_11_4" class="day  cde_l cdt_p">4</a><a href="#" id="cal_day_2012_11_5" class="day  ">5</a><a href="#" id="cal_day_2012_11_6" class="day  ">6</a><a href="#" id="cal_day_2012_11_7" class="day  ">7</a><a href="#" id="cal_day_2012_11_8" class="day  ">8</a><a href="#" id="cal_day_2012_11_9" class="day  ">9</a><a href="#" id="cal_day_2012_11_10" class="day  ">10</a><a href="#" id="cal_day_2012_11_11" class="day  ">11</a><a href="#" id="cal_day_2012_11_12" class="day  ">12</a><a href="#" id="cal_day_2012_11_13" class="day  ">13</a><a href="#" id="cal_day_2012_11_14" class="day  ">14</a><a href="#" id="cal_day_2012_11_15" class="day  ">15</a><a href="#" id="cal_day_2012_11_16" class="day  ">16</a><a href="#" id="cal_day_2012_11_17" class="day  ">17</a><a href="#" id="cal_day_2012_11_18" class="day  ">18</a><a href="#" id="cal_day_2012_11_19" class="day  ">19</a><a href="#" id="cal_day_2012_11_20" class="day  ">20</a><a href="#" id="cal_day_2012_11_21" class="day  ">21</a><a href="#" id="cal_day_2012_11_22" class="day  ">22</a><a href="#" id="cal_day_2012_11_23" class="day  ">23</a><a href="#" id="cal_day_2012_11_24" class="day  cde_t cdt_t">24</a><a href="#" id="cal_day_2012_11_25" class="day  cde_t cdt_p">25</a><a href="#" id="cal_day_2012_11_26" class="day  ">26</a><a href="#" id="cal_day_2012_11_27" class="day  ">27</a><a href="#" id="cal_day_2012_11_28" class="day  ">28</a><a href="#" id="cal_day_2012_11_29" class="day  ">29</a><a href="#" id="cal_day_2012_11_30" class="day  ">30</a></div><script type="text/javascript" language="javascript">$('#cal_day_2012_11_2').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>02/11/12:</h4><p>CdT: 13 Alojados. Ingresos 18 hs. (Resp. Gustavo Schierff)</p><p>CdE: 16 Alojados. Ingreso 18 hs. III Simposio Mundial - Sede Lationamerica (Responsable Julio Aquino)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_11_3').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>03/11/12:</h4><p>CdT: 13 Personas. Ingreso 18 hs. (Resp. Julio Aquino)</p><p>CdT: 13 Alojados. Egreso 18 hs. (Resp. Gustavo Schierff)</p><p>CdE: 16 Alojados. Egreso 18 hs. III Simposio Mundial - Sede Lationamerica (Responsable Julio Aquino)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_11_4').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>04/11/12:</h4><p>CdT: 13 Personas. Egreso 18 hs. (Resp. Julio Aquino)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_11_24').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>24/11/12:</h4><p>CdT: 13 Alojados. Ingreso 18 hs. Uso de sal&oacute;n para Foro Humanista (Resp. Paula Aiello)</p><p>CdE: 16 Alojados. Ingreso 18 hs. (Resp. Paula Aiello)</p>');
+                  $('#calendar_details_content').show();
+              });$('#cal_day_2012_11_25').click(function(e){
+                  e.preventDefault();
+                  $('#calendar_details_content').html('<h4>25/11/12:</h4><p>CdT: 13 Alojados. Egreso 18 hs. Uso de sal&oacute;n para Foro Humanista (Resp. Paula Aiello)</p><p>CdE: 16 Alojados. Egreso 18 hs. (Resp. Paula Aiello)</p>');
+                  $('#calendar_details_content').show();
+              });</script><div id="month_12" class="month_content"><h4>Deciembre / 2012</h4><span class="day header">lu</span><span class="day header">ma</span><span class="day header">mi</span><span class="day header">ju</span><span class="day header">vi</span><span class="day header">sa</span><span class="day header">do</span><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><div class="prefix"></div><a href="#" id="cal_day_2012_12_1" class="day  ">1</a><a href="#" id="cal_day_2012_12_2" class="day  ">2</a><a href="#" id="cal_day_2012_12_3" class="day  ">3</a><a href="#" id="cal_day_2012_12_4" class="day  ">4</a><a href="#" id="cal_day_2012_12_5" class="day  ">5</a><a href="#" id="cal_day_2012_12_6" class="day  ">6</a><a href="#" id="cal_day_2012_12_7" class="day  ">7</a><a href="#" id="cal_day_2012_12_8" class="day  ">8</a><a href="#" id="cal_day_2012_12_9" class="day  ">9</a><a href="#" id="cal_day_2012_12_10" class="day  ">10</a><a href="#" id="cal_day_2012_12_11" class="day  ">11</a><a href="#" id="cal_day_2012_12_12" class="day  ">12</a><a href="#" id="cal_day_2012_12_13" class="day  ">13</a><a href="#" id="cal_day_2012_12_14" class="day  ">14</a><a href="#" id="cal_day_2012_12_15" class="day  ">15</a><a href="#" id="cal_day_2012_12_16" class="day  ">16</a><a href="#" id="cal_day_2012_12_17" class="day  ">17</a><a href="#" id="cal_day_2012_12_18" class="day  ">18</a><a href="#" id="cal_day_2012_12_19" class="day  ">19</a><a href="#" id="cal_day_2012_12_20" class="day  ">20</a><a href="#" id="cal_day_2012_12_21" class="day  ">21</a><a href="#" id="cal_day_2012_12_22" class="day  ">22</a><a href="#" id="cal_day_2012_12_23" class="day  ">23</a><a href="#" id="cal_day_2012_12_24" class="day  ">24</a><a href="#" id="cal_day_2012_12_25" class="day  ">25</a><a href="#" id="cal_day_2012_12_26" class="day  ">26</a><a href="#" id="cal_day_2012_12_27" class="day  ">27</a><a href="#" id="cal_day_2012_12_28" class="day  ">28</a><a href="#" id="cal_day_2012_12_29" class="day  ">29</a><a href="#" id="cal_day_2012_12_30" class="day  ">30</a><a href="#" id="cal_day_2012_12_31" class="day  ">31</a></div><script type="text/javascript" language="javascript"></script>  </div>
+</div>
+
+<script type='text/javascript'>
+	$(document).ready(function() {
+		$('#calendar_filters h5').click(function(e){
+			console.log(this);
+  		$('#calendar_filters h5').removeClass('selected');
+  		$(this).addClass('selected');
+  		$('#calendar').attr('class','');
+  		$('#calendar').addClass($(this).attr('data-type'));
+		});
+	});
+</script>
+
+	    </div>
+ 			
+    <div id="footer">
+      <span>Alfonsina Storni 1568, La Reja - Moreno -Pcia. de Bs. As. - Argentina</span>
+    </div>
+	</div>
+	
+      <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', "UA-25028261-1"]);
+            _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+  	
+
+
+	
+
+
+<script type="text/javascript">
+$(function() {
+apostrophe.buttonSlot({"button":"#a-button-6-logo-1","rollover":false});
+apostrophe.ready();
+apostrophe.setMessages({"updating":"Updating...","updated":"Updated"});
+apostrophe.smartCSS();
+});
+</script>
+
+
+
+</body>
+</html>

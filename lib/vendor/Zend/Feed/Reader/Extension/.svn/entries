@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Feed/Reader/Extension
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Content
+dir
+
+Slash
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+a20971da095b0c50673bd3aeb2fb3cf0
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Podcast
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2010-08-03T04:21:46.000000Z
+3536f9ea7eeb28c4bdda2e10f4463ae7
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+CreativeCommons
+dir
+
+WellFormedWeb
+dir
+

@@ -1,0 +1,54 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/resources/xsd
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+database.xsd
+file
+
+
+
+
+2010-08-03T04:22:07.000000Z
+6093ad37941945d4f4fd8b2144d1efbe
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+
+custom_datatypes.xsd
+file
+
+
+
+
+2010-08-03T04:22:07.000000Z
+25639f786bdb6f27e6d0b19291bbc386
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+

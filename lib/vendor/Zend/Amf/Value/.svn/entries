@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Amf/Value
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+MessageHeader.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+bbbea04d40c5554b0b226e7470149ff1
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+ByteArray.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+1728b2f1da6ba6816eae99423a1c556a
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+MessageBody.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+14749868a4080259c38529526946f3ea
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+TraitsInfo.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+776750b03a3102302651e1765ca57dbc
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Messaging
+dir
+

@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/model/doctrine/sfDoctrineActAsTaggablePlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+TaggingTable.class.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+87bf41822a8da5ecfe92b309e56ccac3
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Tag.class.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+b88a63e62384e8db6c9bb48697a8981d
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+base
+dir
+
+Tagging.class.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+dfe8e5ed4994d2652b105dd002311156
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+TagTable.class.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+87db5444bcef56a9efb0d8447552bc40
+2010-08-03T03:41:13.652822Z
+4
+diego
+

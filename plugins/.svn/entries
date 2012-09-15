@@ -1,0 +1,58 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-08-17T17:02:42.188598Z
+54
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+sfSyncContentPlugin
+dir
+
+sfDoctrineActAsTaggablePlugin
+dir
+
+sfDoctrineGuardPlugin
+dir
+
+apostrophePlugin
+dir
+
+apostropheBlogPlugin
+dir
+
+apostropheFeedbackPlugin
+dir
+
+sfWebBrowserPlugin
+dir
+
+apostropheExtraSlotsPlugin
+dir
+
+sfFeed2Plugin
+dir
+
+sfTaskExtraPlugin
+dir
+

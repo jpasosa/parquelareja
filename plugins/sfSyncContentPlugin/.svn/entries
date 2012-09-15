@@ -1,0 +1,67 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfSyncContentPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+LICENSE
+file
+
+
+
+
+2011-07-13T20:08:39.000000Z
+9255e2f83f78b710513680b49cbec8a6
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+package.xml.tmpl
+file
+
+
+
+
+2011-07-13T20:08:39.000000Z
+163d4dc29270272c41f4fc5d81991d13
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+lib
+dir
+
+README
+file
+
+
+
+
+2011-07-13T20:08:39.000000Z
+c98e4baf830eca44beec693d5f0383a5
+2011-07-13T19:27:38.079076Z
+42
+diego
+

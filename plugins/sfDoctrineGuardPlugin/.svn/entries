@@ -1,0 +1,94 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfDoctrineGuardPlugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+i18n
+dir
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2011-07-13T20:08:49.000000Z
+c0ab88a4687e9ff8e0fb6c95ca49ed74
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+config
+dir
+
+VERSION
+file
+
+
+
+
+2011-07-13T20:08:49.000000Z
+c0879261b3ffe363f27a5d1a6bb5ffcd
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+package.xml.tmpl
+file
+
+
+
+
+2011-07-13T20:08:49.000000Z
+5a0b84889f3ff4ab6cdcad2ac0a399f5
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+lib
+dir
+
+modules
+dir
+
+data
+dir
+
+README
+file
+
+
+
+
+2011-07-13T20:08:49.000000Z
+33a7a3ec82e8be9a899d5df891a02aee
+2011-07-13T19:27:38.079076Z
+42
+diego
+

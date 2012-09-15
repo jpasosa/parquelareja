@@ -1,0 +1,73 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfFeed2Plugin
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T18:46:22.864408Z
+41
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2011-07-13T20:09:47.000000Z
+feca6d513f7eadaf6002fe0b62c629c3
+2011-07-13T18:46:22.864408Z
+41
+diego
+
+config
+dir
+
+lib
+dir
+
+package.xml
+file
+
+
+
+
+2011-07-13T20:09:47.000000Z
+dda409fb628f8d4b424ea53ee5d93dee
+2011-07-13T18:46:22.864408Z
+41
+diego
+
+README
+file
+
+
+
+
+2011-07-13T20:09:47.000000Z
+d17da135c2c1999b03b7095fd77cb93e
+2011-07-13T18:46:22.864408Z
+41
+diego
+

@@ -1,0 +1,67 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+mssql
+dir
+
+sqlite
+dir
+
+SchemaParser.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+e804d5e0089bcd20ab76c19c33393955
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+mysql
+dir
+
+oracle
+dir
+
+pgsql
+dir
+
+BaseSchemaParser.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+fe515c8a0a02a937b08f39aa895dacd2
+2010-08-03T03:41:13.652822Z
+4
+diego
+

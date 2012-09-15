@@ -1,0 +1,76 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Queue/Stomp
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Frame.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+b43290ee1baff44a31d1396eb220bc61
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+FrameInterface.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+de88ffe6219ea8b4fd51c3add485b861
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Client.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+11c211b1f4e198deb9ec773ead4d79b2
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+IO
+dir
+
+Base
+dir
+
+Frame
+dir
+
+Client
+dir
+

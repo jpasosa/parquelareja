@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostropheBlogPlugin/lib/search
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+aEventSearchHelper.class.php
+file
+
+
+
+
+2011-07-13T20:09:44.000000Z
+4a6fc51d34acc976a1093d739aae040b
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+BaseaEventSearchHelper.class.php
+file
+
+
+
+
+2011-07-13T20:09:44.000000Z
+16b038b4d183ce563ccc9e4e2e7b80a6
+2011-07-13T19:27:38.079076Z
+42
+diego
+

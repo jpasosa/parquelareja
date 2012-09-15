@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/apps/frontend/lib/form
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-01-08T07:20:53.166161Z
+12
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+fParkSlotEditForm.class.php
+file
+
+
+
+
+2010-08-03T04:21:44.000000Z
+d267c8d983ada6fa56000dac8d4e68bd
+2010-08-01T21:00:59.964884Z
+3
+diego
+
+fSnapShotSlotEditForm.class.php
+file
+
+
+
+
+2010-08-03T04:21:44.000000Z
+83c0e1a64d0bd86f8c4300b5b79dc7f0
+2010-08-01T21:00:59.964884Z
+3
+diego
+

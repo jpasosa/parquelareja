@@ -1,0 +1,175 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Search/Lucene/Search
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Similarity
+dir
+
+Weight
+dir
+
+QueryEntry
+dir
+
+QueryParserException.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+5718279182a270fb0ea44da463b1b734
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+QueryLexer.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+0f0774ffdc3b28169abde432b86c0093
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Query.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+59829928f80d34d5ce1415e4462414bd
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+QueryToken.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+7d0bdb1f9978cb61dc55e677fa2cedd9
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Highlighter
+dir
+
+QueryHit.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+6ea7684782858f7585486a28720d06ed
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Query
+dir
+
+QueryParser.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+b968266323629046ab936907d1bba3c4
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Similarity.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+a6e6d778c6853efa619e2374b2230ca1
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Weight.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+0b66c2379e7ca7bf05c8412be1d3f0c2
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+QueryParserContext.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+29575438bb887823cecaafa03ee2cbe9
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+QueryEntry.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+74dca53ed9520761ba38860e156dcd8d
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+BooleanExpressionRecognizer.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+9f5d5815b9a4ca55b16386ca170cfcb8
+2010-08-03T03:41:13.652822Z
+4
+diego
+

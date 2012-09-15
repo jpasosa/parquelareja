@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Mail/Storage/Writable
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Interface.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+dcfb423d0840c20d2a4ed0e3efc71c6d
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Maildir.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+b0f8cd46fe2677eddf457c063fd8c01c
+2010-08-03T03:41:13.652822Z
+4
+diego
+

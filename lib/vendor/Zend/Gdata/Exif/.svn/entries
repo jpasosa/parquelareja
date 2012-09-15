@@ -1,0 +1,57 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Gdata/Exif
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Entry.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+2854599a5df7259c97941485a7fd3dc8
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+
+Feed.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+0c987ca65d0653b9082dd314bce61160
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+
+Extension
+dir
+

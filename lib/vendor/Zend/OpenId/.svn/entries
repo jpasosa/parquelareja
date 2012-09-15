@@ -1,0 +1,85 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/OpenId
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Provider.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+15c2282ff1d17cb17e2a8b276521239b
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Consumer.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+48b52d92df02e975bef509eb60269caf
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Extension.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+4c146a7adda0b44b49aa116e57c9b548
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:21:47.000000Z
+290c6ecfeab43b0717681c0426cc0edf
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Provider
+dir
+
+Consumer
+dir
+
+Extension
+dir
+

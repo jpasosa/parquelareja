@@ -1,0 +1,70 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Session
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Namespace.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+eb4b50b1ee46eb07dd1fc60cd98e2f33
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+36d22c6c78428a57cb0fd1f10114f4f7
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Validator
+dir
+
+Abstract.php
+file
+
+
+
+
+2010-08-03T04:21:45.000000Z
+d087476a35f96d211098780ad162b04c
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+SaveHandler
+dir
+

@@ -1,0 +1,55 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Acl/Role
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Interface.php
+file
+
+
+
+
+2010-08-03T04:21:52.000000Z
+e34c52cd3636faf6240dc985c3a914f7
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Registry
+dir
+
+Registry.php
+file
+
+
+
+
+2010-08-03T04:21:52.000000Z
+05e934727a55a2ff75d7d67b7ed2710b
+2010-08-03T03:41:13.652822Z
+4
+diego
+

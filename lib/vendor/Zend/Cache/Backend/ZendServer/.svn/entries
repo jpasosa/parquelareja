@@ -1,0 +1,54 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Cache/Backend/ZendServer
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+ShMem.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+f2d9070fa385e346402b5c20d3c571d9
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+
+Disk.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+d3335e278a4101e6faa8f9da42535f28
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+

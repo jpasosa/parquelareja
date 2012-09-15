@@ -1,0 +1,52 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/test/bootstrap
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+unit.php
+file
+
+
+
+
+2011-07-13T20:09:21.000000Z
+87380d7f175d445158cc621f07c63627
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+functional.php
+file
+
+
+
+
+2011-07-13T20:09:21.000000Z
+dd4a93a8c9ac6b148a236200bc0fb838
+2011-07-13T19:27:38.079076Z
+42
+diego
+

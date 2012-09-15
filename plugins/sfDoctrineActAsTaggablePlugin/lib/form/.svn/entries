@@ -1,0 +1,55 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/sfDoctrineActAsTaggablePlugin/lib/form
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+doctrine
+dir
+
+TagForm.class.php
+file
+
+
+
+
+2011-07-13T20:08:41.000000Z
+89f847de0da637ea9732d0d066ad3c9c
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+TaggingForm.class.php
+file
+
+
+
+
+2011-07-13T20:08:41.000000Z
+e88651f33e332d255ed1f5cf5147c1ca
+2011-07-13T19:27:38.079076Z
+42
+diego
+

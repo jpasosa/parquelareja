@@ -1,0 +1,91 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Mail
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Protocol
+dir
+
+Message
+dir
+
+Storage
+dir
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+6261a9027d3c9af75739c7f8dacf001b
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Part
+dir
+
+Message.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+e1809e84ca6dacf458007d3d1b0116a9
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Storage.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+81972ee055899f5b112c04e7fc55a0ea
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Transport
+dir
+
+Part.php
+file
+
+
+
+
+2010-08-03T04:21:55.000000Z
+1516930a1546b2ef4eb3fc70eb63dce5
+2010-08-03T03:41:13.652822Z
+4
+diego
+

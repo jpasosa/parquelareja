@@ -1,0 +1,67 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/lib/embedService/phpviddler
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+phpviddler.php
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+b6c08f61f44931d5d9759df16b9a12a9
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+MITlicense.txt
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+6993c39acb6b708e81b0db465543b567
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+examples
+dir
+
+README.markdown
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+c6824e29e30a0a6e5c9705418497c199
+2011-07-13T19:27:38.079076Z
+42
+diego
+

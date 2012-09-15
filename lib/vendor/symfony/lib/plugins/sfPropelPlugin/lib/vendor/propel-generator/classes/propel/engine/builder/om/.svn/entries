@@ -1,0 +1,79 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+ObjectBuilder.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+4965cde9ace8cc531ac5731dc3e40919
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+OMBuilder.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+626c41c390dff3325ef2c874f1e096d4
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+PeerBuilder.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+f2e18385b5bf8355bf35a9f776190174
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+php5
+dir
+
+ClassTools.php
+file
+
+
+
+
+2010-08-03T04:22:08.000000Z
+22651d05683198a4432864404aba3498
+2010-08-03T03:41:13.652822Z
+4
+diego
+

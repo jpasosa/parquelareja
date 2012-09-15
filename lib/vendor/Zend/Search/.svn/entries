@@ -1,0 +1,55 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/Zend/Search
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+Lucene.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+405e8d152c321c9b41400c3d9f7a1ca2
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Exception.php
+file
+
+
+
+
+2010-08-03T04:21:58.000000Z
+93ad7a9c3a226bd737718483d5eb40a5
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+Lucene
+dir
+

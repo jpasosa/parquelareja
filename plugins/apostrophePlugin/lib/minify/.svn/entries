@@ -1,0 +1,121 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/plugins/apostrophePlugin/lib/minify
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+HTTP
+dir
+
+Solar
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+911d374696c0a5e9e6e848e7f20d0ee1
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+Minify.php
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+06aade8920c3843c41bd9df1de0cebde
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+ABOUT-MINIFY-AND-APOSTROPHE.txt
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+50408d6e6f409c1bdf2b88e6f137486b
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+FirePHP.php
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+f619b5a77fee4b21e4397e98d858fbf4
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+JSMin.php
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+5716028656e1d402c98a43ee18648dd3
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+JSMinPlus.php
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+9d982f55fe9526105eaf9c0fc661263e
+2011-07-13T19:27:38.079076Z
+42
+diego
+
+Minify
+dir
+
+README.txt
+file
+
+
+
+
+2011-07-13T20:09:23.000000Z
+6e961a626ae6814c72fab53bcad4a4a7
+2011-07-13T19:27:38.079076Z
+42
+diego
+

@@ -1,0 +1,47 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/data
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2010-08-03T03:41:13.652822Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+sql
+dir
+
+linked_schema.yml
+file
+
+
+
+
+2010-08-03T04:22:03.000000Z
+13fabd01b0f516cee3a63b2202a5c67f
+2010-08-03T03:41:13.652822Z
+4
+diego
+has-props
+
+fixtures
+dir
+

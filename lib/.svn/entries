@@ -1,0 +1,67 @@
+8
+
+dir
+64
+file:///home/hormigon/usvn/files/svn/parquelareja/lib
+file:///home/hormigon/usvn/files/svn/parquelareja
+
+
+
+2012-04-18T19:58:17.061169Z
+64
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a5eebfaf-1be1-4f2f-b83e-4b96bb572873
+
+test
+dir
+
+model
+dir
+
+reservas.php
+file
+
+
+
+
+2011-09-01T23:56:32.000000Z
+2309d8b60e1f410325965f5c81937f3c
+2011-09-01T23:53:52.764873Z
+58
+diego
+
+form
+dir
+
+widget
+dir
+
+filter
+dir
+
+validator
+dir
+
+migration
+dir
+
+vendor
+dir
+
+embedService
+dir
+
